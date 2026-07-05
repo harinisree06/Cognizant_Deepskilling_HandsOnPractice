@@ -1,0 +1,9 @@
+# Eclipse generated files
+**/bin/
+**/.settings/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
