@@ -1,0 +1,7 @@
+package com.cognizant.observer;
+
+public interface Observer {
+
+    void update(String stockName, double stockPrice);
+
+}
